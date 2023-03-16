@@ -1,9 +1,9 @@
 import tweepy,sys,jsonpickle
 
-consumer_key = '' #di isi API key dari akun developer twitter
-consumer_secret = '' #di isi API secret dari akun developer twitter
+consumer_key = 'Pcx5BZqaCns11e2Wr7V4YDz3Y' #di isi API key dari akun developer twitter
+consumer_secret = 'p3Wo6ehGyWmtvnf02zaJ1luKHDm5tsNRKQrGIUs74ejJWCZFFM' #di isi API secret dari akun developer twitter
 
-qry='bunga citra lestari'#query yang akan di cari
+qry='motor listrik'#query yang akan di cari
 maxTweets =  700# Isi sembarang nilai sesuai kebutuhan anda
 tweetsPerQry = 100  # Jangan isi lebih dari 100, ndak boleh oleh Twitter
 fName='bunga citra lestari.json' # Nama File hasil Crawling
